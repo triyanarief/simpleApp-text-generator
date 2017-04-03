@@ -56,6 +56,7 @@ class App extends Component {
         </form>
         <br /><br />
         <Output value={this.state.text} />
+        <br /><br />
       </div>
     );
   }
